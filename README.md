@@ -167,9 +167,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Ashenafi Yacob
-Mulugeta Tadege
+AirBnB Rest API: Ashenafi Yacob
+AirBnB Rest API: Mulugeta Tadege
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
