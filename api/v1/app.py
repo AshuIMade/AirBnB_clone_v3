@@ -20,6 +20,7 @@ def teardown_app(exception):
     """closes or handles the storage on teardown"""
     storage.close()
 
+
 @app.errorhandler(404)
 def error_404(error):
     '''handler for 404 errors that returns a
