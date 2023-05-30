@@ -1,5 +1,6 @@
 # AirBnB Clone - RESTful API
-This project is an update on existing codebase cloned from github. The new project is aimed to add restfull API functionalities using Flask python framework. This Project aimed at understanding the following concepts.
+This project is an update on existing codebase cloned from github. 
+The new project is aimed to add restfull API functionalities using Flask python framework. This Project aimed at understanding the following concepts.
 * What REST means
 * What API means
 * What CORS means
